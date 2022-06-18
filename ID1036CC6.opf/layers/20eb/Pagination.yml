@@ -1,0 +1,103 @@
+id: ddb67c01e6c44fd49563240a4e242bb3
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  85d1aa1da6014f2cb48e1fe18e970e99:
+    span:
+      start: 0
+      end: 566
+    metadata:
+      page_num: '139'
+    page_info: null
+    imgnum: 139
+    reference: null
+  c468abc919b64552aeca4d79167c6254:
+    span:
+      start: 568
+      end: 2194
+    metadata:
+      page_num: '140'
+    page_info: null
+    imgnum: 140
+    reference: null
+  37f801eaf7c241b9a06db528701b79fa:
+    span:
+      start: 2196
+      end: 3827
+    metadata:
+      page_num: '141'
+    page_info: null
+    imgnum: 141
+    reference: null
+  cff7903c402c4b969b65de601a22de0c:
+    span:
+      start: 3829
+      end: 5463
+    metadata:
+      page_num: '142'
+    page_info: null
+    imgnum: 142
+    reference: null
+  27b23aabe44c43118e93703ca7053519:
+    span:
+      start: 5465
+      end: 7103
+    metadata:
+      page_num: '143'
+    page_info: null
+    imgnum: 143
+    reference: null
+  caec95d61b514d52bcbda55279462cd4:
+    span:
+      start: 7105
+      end: 8735
+    metadata:
+      page_num: '144'
+    page_info: null
+    imgnum: 144
+    reference: null
+  ee2795a964ff4e47a781302d74722154:
+    span:
+      start: 8737
+      end: 10378
+    metadata:
+      page_num: '145'
+    page_info: null
+    imgnum: 145
+    reference: null
+  10f697a275e24f86afdf6850e7826a81:
+    span:
+      start: 10380
+      end: 12052
+    metadata:
+      page_num: '146'
+    page_info: null
+    imgnum: 146
+    reference: null
+  92516a450037431190f73e37e7707002:
+    span:
+      start: 12054
+      end: 13696
+    metadata:
+      page_num: '147'
+    page_info: null
+    imgnum: 147
+    reference: null
+  355632bd35504ca785dbf66d8c497c7a:
+    span:
+      start: 13698
+      end: 15332
+    metadata:
+      page_num: '148'
+    page_info: null
+    imgnum: 148
+    reference: null
+  00dff12d4b4f4ad58d215d6b338f8353:
+    span:
+      start: 15334
+      end: 16628
+    metadata:
+      page_num: '149'
+    page_info: null
+    imgnum: 149
+    reference: null
